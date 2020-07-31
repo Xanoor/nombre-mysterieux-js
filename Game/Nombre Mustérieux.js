@@ -6,7 +6,7 @@ module.exports.run = async(client, message, args) => {
     let number = Math.floor(Math.random() * Math.floor(100))
 
 
-    message.channel.send('Nombre Mystérieux - Cherche le nombre entre 0 et 100 en suivant les indications ! Credits: https://github.com/Xanoor/nombre-mysterieux').then(async m => {
+    message.channel.send('Nombre Mystérieux - Cherche le nombre entre 0 et 100 en suivant les indications ! Credits: https://github.com/Xanoor/nombre-mysterieux-js').then(async m => {
 
 
 
