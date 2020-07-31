@@ -1,4 +1,4 @@
-# nombre-myst-rieux-js
+# nombre-mysterieux-js
 Jeu: Nombre Mystérieux pour bot discord en JavaScript!
 
 Jeu coder a 100% en JavaScript
